@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useMemo } from "react";
 import "./App.css";
-import BaseCurrencySelector from "./components/BaseCurrencySelector";
+import BaseCurrencySelector from "./components/baseCurrencySelector/BaseCurrencySelector";
 import DateSelector from "./components/DateSelector";
-import CurrencyTable from "./components/CurrencyTable";
+import CurrencyTable from "./components/currencyTable/CurrencyTable";
 import CurrencySelector from "./components/CurrencySelector";
 
 const App = () => {

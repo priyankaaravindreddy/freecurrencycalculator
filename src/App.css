@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   font-size: 12px;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .App-logo {
@@ -72,14 +72,12 @@ select#newCurrency {
 option {
   padding: 5px;
 }
-.rootClass{
-  display:flex;
+.rootClass {
+  display: flex;
   align-items: center;
   flex-direction: column;
 }
-.rootHeader{
+.rootHeader {
   display: flex;
-  gap:50px;
+  gap: 50px;
 }
-
-
